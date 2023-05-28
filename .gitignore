@@ -1,0 +1,5 @@
+#exe file
+*.exe
+
+#vscode
+.vscode/
