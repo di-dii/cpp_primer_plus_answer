@@ -44,3 +44,41 @@
 - [4-8](./answers/ch4/4-8.cpp)
 - [4-9](./answers/ch4/4-9.cpp)
 - [4-10](./answers/ch4/4-10.cpp)
+
+### 第五章
+
+- [5-1](./answers/ch5/5-1.cpp)
+- [5-2](./answers/ch5/5-2.cpp)
+- [5-3](./answers/ch5/5-3.cpp)
+- [5-4](./answers/ch5/5-4.cpp)
+- [5-5](./answers/ch5/5-5.cpp)
+- [5-6](./answers/ch5/5-6.cpp)
+- [5-7](./answers/ch5/5-7.cpp)
+- [5-8](./answers/ch5/5-8.cpp)
+- [5-9](./answers/ch5/5-9.cpp)
+- [5-10](./answers/ch5/5-10.cpp)
+
+### 第六章
+
+- [6-1](./answers/ch6/6-1.cpp)
+- [6-2](./answers/ch6/6-2.cpp)
+- [6-3](./answers/ch6/6-3.cpp)
+- [6-4](./answers/ch6/6-4.cpp)
+- [6-5](./answers/ch6/6-5.cpp)
+- [6-6](./answers/ch6/6-6.cpp)
+- [6-7](./answers/ch6/6-7.cpp)
+- [6-8](./answers/ch6/6-8.cpp)
+- [6-9](./answers/ch6/6-9.cpp)
+
+### 第七章
+
+- [7-1](./answers/ch7/7-1.cpp)
+- [7-2](./answers/ch7/7-2.cpp)
+- [7-3](./answers/ch7/7-3.cpp)
+- [7-4](./answers/ch7/7-4.cpp)
+- [7-5](./answers/ch7/7-5.cpp)
+- [7-6](./answers/ch7/7-6.cpp)
+- [7-7](./answers/ch7/7-7.cpp)
+- [7-8](./answers/ch7/7-8.cpp)
+- [7-9](./answers/ch7/7-9.cpp)
+- [7-10](./answers/ch7/7-10.cpp)
