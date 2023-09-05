@@ -1,4 +1,4 @@
-# C++ Primer Plus Book's practice
+# C++ Primer Plus Book's practice (6 Edition)
 
 
 <!-- <details><summary>第二章</summary>
