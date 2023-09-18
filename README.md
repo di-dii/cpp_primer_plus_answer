@@ -82,3 +82,13 @@
 - [7-8](./answers/ch7/7-8.cpp)
 - [7-9](./answers/ch7/7-9.cpp)
 - [7-10](./answers/ch7/7-10.cpp)
+
+### 第八章
+
+- [8-1](./answers/ch8/8-1.cpp)
+- [8-2](./answers/ch8/8-2.cpp)
+- [8-3](./answers/ch8/8-3.cpp)
+- [8-4](./answers/ch8/8-4.cpp)
+- [8-5](./answers/ch8/8-5.cpp)
+- [8-6](./answers/ch8/8-6.cpp)
+- [8-7](./answers/ch8/8-7.cpp)
