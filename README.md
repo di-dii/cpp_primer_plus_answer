@@ -92,3 +92,10 @@
 - [8-5](./answers/ch8/8-5.cpp)
 - [8-6](./answers/ch8/8-6.cpp)
 - [8-7](./answers/ch8/8-7.cpp)
+
+### 第九章
+
+- [9-1](./answers/ch9/9-1/9-1.cpp)
+- [9-2](./answers/ch9/9-2.cpp)
+- [9-3](./answers/ch9/9-3.cpp)
+- [9-4](./answers/ch9/9-4/9-4.cpp)
